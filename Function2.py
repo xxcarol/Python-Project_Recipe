@@ -9,7 +9,7 @@ Fuction 2: FoodtoFork module
 
 Purpose: Take user ingredient input and return the top 10 most popular recipe on social media
 
-@author: Zina Ouyang
+@author: Zina O.
 """
 
 import json
