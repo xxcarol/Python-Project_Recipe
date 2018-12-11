@@ -7,7 +7,7 @@ Function 1
 Purpose: Take user ingredient input and return 10 random recipes from EatingWellRecipes,
 AllRecipes and recipepuppy api combined.
 
-@author: Thara Palanivel, Carol Xiang
+@author: Thara P., Carol X.
 """
 
 import urllib.request, json 
