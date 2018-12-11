@@ -1,5 +1,5 @@
 ﻿Team: DFP C2 Group 6
-Team Members: Thara Palanivel, Jessica Sleep, Carol Xiang, Zina Ouyang
+Team Members: Thara P., Jessica S., Carol X., Zina O.
 Company Name: Ricetta
 
 
