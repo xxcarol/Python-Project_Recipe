@@ -7,7 +7,7 @@ Created on Sat Dec  1 13:56:44 2018
 
 Main module 
 
-@author: Thara Palanivel, Jessica Sleep, Carol Xiang, Zina Ouyang
+@author: Thara P., Jessica S., Carol X., Zina O.
 """
 import Function1
 import Function2 
@@ -84,7 +84,4 @@ while(inputCorrect == False):
         
         Function3.search_ing(ingredient, recf)
             
-    
-    
-            
-
+  
